@@ -118,7 +118,7 @@ The text of each release has a line `Summary EN:` and a line `Summary UK:`, a sh
 This list updates by itself. A small workflow in this repository rewrites it whenever a release is published, changed or hidden, and once a day. It shows the public releases, newest first, up to ten. Because only the newest version stays public, expect one entry. A hidden release does not appear here.
 
 <!-- releases:start -->
-No release is public yet. Check back soon.
+- **v1.0.0** (2026-11-22): The first public version of Live Helper for Mac and Windows. It checks for updates by itself and tells you when a new version is ready. [Release page](https://github.com/livehelper-app/live-helper-releases/releases/tag/v1.0.0)
 <!-- releases:end -->
 
 ## Help
